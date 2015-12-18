@@ -1,4 +1,7 @@
 import os
 
-if __name__ == '__main__':
+def test():
     print 1
+
+if __name__ == '__main__':
+    print 2
